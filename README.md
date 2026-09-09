@@ -16,7 +16,7 @@
 
 ## ステージ1：Spring BootとWebの基礎（12件・必修）
 
-- [ ] 4. [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/) — Spring Bootの自動構成、起動方法、テスト、Actuatorの概要を学ぶ
+- [x] 4. [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/) — Spring Bootの自動構成、起動方法、テスト、Actuatorの概要を学ぶ
 - [ ] 5. [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) — コントローラーとHTTP APIの基本を学ぶ
 - [ ] 6. [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) — Spring MVCとThymeleafで画面を作る
 - [ ] 7. [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/) — Webフォームの表示と送信を扱う
